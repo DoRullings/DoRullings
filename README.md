@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas Gabrielsen
 - 👀 I’m interested in computers, programming, UI, UX, microcontrollers, music, photgraphy, communication and politics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on creating a comunication platfom to bring people with different ethical and political views together using positive reinforcement.
-- 📫 thomas@arton.no
+- 💞️ I’m looking for developers, designers, communication consultants, etc, to collaborate on creating a comunication platfom to bring people with different ethical and political views together using positive reinforcement. I have started writing about this platform here:: https://github.com/DoRullings/communicate/
+- 📫 Contact me on: thomas@arton.no
