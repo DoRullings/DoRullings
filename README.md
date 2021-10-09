@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thomas Gabrielsen. I was born in 1971 and live in Oslo, Norway
-- 👀 I’m interested in computers and microcontrollers, programming, UI/UX, music, photgraphy, communication and politics
-- 🌱 I’m currently learning. This sentence should stop here because I'll never stop learning. When it comes to new programming languages it must be Python. I've deleoped huge passion for Python. It is many years since I've wrote my first line of code in Python, but during the pandemic I've developed more in Python than in any other programming languages. I use Python a lot for prototyping and to create programs to automate repetitive tasks.
-- 💞️ I’m looking for developers, designers, communication consultants, etc, to collaborate on creating a comunication platfom to bring people with different ethical and political views together using positive reinforcement. I have started writing about this platform here:: https://github.com/DoRullings/communicate/
-- 📫 Contact me on: thomas@arton.no
+- 👋 Hi, I’m Thomas Gabrielsen from Oslo, Norway. Father of two beautiful children. 
+- 👀 I’m interested in computers, microcontrollers and electronics in general, programming, UI/UX, guitarist, photographer, and much more.
+- 🌱 I've deleoped passion for Python. It is many years since I've wrote my first line of code in Python, but the last couple of years I've been programming in Python a lot. 
+- When I was a teenager I loved to open up and find out how different electric devices worked and tried to fix broken electronic appliences, something I still do. The recenty years I've started to fresh up and learn more about electronics, mainly low current DC electronics. 
+- 📫 Contact me on: gabrielsenator@gmail.com
